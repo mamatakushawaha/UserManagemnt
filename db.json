@@ -1,0 +1,20 @@
+{
+  "user": [
+    {
+      "id": "0f59",
+      "name": "Sudhir",
+      "email": "sudhir2gmail.com",
+      "mobile": "788999888877",
+      "course": "B.tech",
+      "city": "Hapur"
+    },
+    {
+      "id": "64a2",
+      "name": "Mamata Kumari",
+      "email": "abc@gmail.com",
+      "mobile": "7634653256",
+      "course": "B.tech",
+      "city": "Ghazipur"
+    }
+  ]
+}
